@@ -74,8 +74,8 @@ hr{
 }
 
 .box {
-    /* width: 100px;
-    height: 100px; */
+    width: auto;
+   
     
     border: 1px solid #535252;
     
